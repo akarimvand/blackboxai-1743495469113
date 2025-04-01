@@ -1,0 +1,26 @@
+# فایل‌های حساس
+.env
+*.token
+token.txt
+
+# فایل‌های سیستم
+.DS_Store
+node_modules/
+
+# لاگ‌ها
+*.log
+npm-debug.log*
+
+# محیط‌های مجازی
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+*.min.js
